@@ -6,13 +6,13 @@ I help businesses save time and scale by automating repetitive tasks and extract
 
 ###My Specialized Ecosystem
 
-####[Advanced Extraction Engines](https://github.com)
+####[Advanced Extraction Engines]([https://github.com](https://github.com/Samson-Automate/Advanced-Extraction-Engines))
 Complex web scrapers designed to bypass anti-bot systems and deliver structured data from dynamic platforms.
 
-####[Business Process Automation](https://github.com)
+####[Business Process Automation]()
 Custom-built workflows and bots (WhatsApp, Email, CRM) that eliminate manual work.
 
-####[Professional Script Toolkit](https://github.com)
+####[Professional Script Toolkit](https://github.com/Samson-Automate/Business-Process-Automation)
 Reliable, production-ready utility scripts for daily task optimization and file management.
 
 ---
