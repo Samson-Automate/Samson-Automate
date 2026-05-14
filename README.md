@@ -30,7 +30,8 @@ Reliable, production-ready utility scripts for daily task optimization and file 
 - **Reliability:** Error handling and clean code are my top priorities.
 - **Results:** I focus on providing solutions that provide immediate business value.
 
-**Let's automate your business:** [Contact Me via Email](samsonpatras34@gmail.com)
+**Let's automate your business:** [Contact Me via Email](mailto:samson.automates@gmail.com) or reach out directly at samson.automates@gmail.com
+* **Twitter (X):** Connect with me on [Twitter (X)](https://x.com/Samson_Automate/) for daily automation tips and tech updates.
 
 ---
-*Thank you for visiting! I'm always open to discussing new projects and automation ideas.*
+*Thank you for visiting! I'm always open to discussing new projects, freelance gigs, or automation ideas.*
